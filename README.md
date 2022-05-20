@@ -19,7 +19,7 @@
 ! [Ubuntu] 
 
 
-	| Syntax | Description |
-| ----------- | ----------- |
-| Language | Student |
+	| Language | Student |
+| Python | Claire|
+| Laravel | Kamau  |
 | Javascript | Sharonah |
