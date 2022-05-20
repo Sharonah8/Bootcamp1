@@ -17,3 +17,9 @@
 [Learn how to install WSL for Windows] (https://docs.microsoft.com/en-us/windows/wsl/install)
 
 ! [Ubuntu] 
+
+
+	| Syntax | Description |
+| ----------- | ----------- |
+| Language | Student |
+| Javascript | Sharonah |
